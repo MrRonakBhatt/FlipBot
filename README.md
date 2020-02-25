@@ -1,3 +1,3 @@
 # FlipBot
 pre requirements
-pip install selenium
+#pip install selenium

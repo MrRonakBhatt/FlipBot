@@ -7,7 +7,7 @@ pre requirements
 #Config.ini
 
 [Login]
-Username = <Emaile@gmail.com / 7990219143>
+Username = <Emaile@gmail.com / 1234567890>
 PassWord = <ABCD_MY_Pass>
 
 [Product_URL]
